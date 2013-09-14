@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Simple Gist Embed
- * Plugin URI: 
+ * Plugin URI: https://github.com/hbuchel/Gist-WordPress-ShortCode
  * Description: A shortcode to add github gists. Hurray!
  * Version: The Plugin's Version Number, e.g.: 1.0
  * Author: Heather Buchel
